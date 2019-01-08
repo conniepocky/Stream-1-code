@@ -1,6 +1,6 @@
 # vr-website-clojure
 
-FIXME: Write a one-line description of your library/project.
+Hello this is the code for the first twitch stream I did at 5:00 on 7th January 2018
 
 ## Overview
 
